@@ -1,9 +1,14 @@
 {
   "name": "pasokan-rtp-live-slot-tertinggi-dari-pragmatic-play",
   "main": "./lib/pasokan-rtp-live-slot-tertinggi-dari-pragmatic-play",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Pasokan RTP Live Slot Gacor Hari Ini, pasokan rtp slot gacor hari ini dapat kamu nikmati dengan rtp live Kami",
-  "keywords": ["rtp slot","rtp live","rtp slot tertinggi","rtp slot hari ini","rtp slot pragmaticc"
+  "keywords": [
+    "rtp slot",
+    "rtp live",
+    "rtp slot tertinggi",
+    "rtp slot hari ini",
+    "rtp slot pragmaticc"
   ],
   "activationCommands": {
     "atom-workspace": "pasokan-rtp-live-slot-tertinggi-dari-pragmatic-play:toggle"
@@ -13,6 +18,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
