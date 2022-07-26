@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle pasokan-rtp-live-slot-tertinggi-dari-pragmatic-play",
+        "command": "pasokan-rtp-live-slot-tertinggi-dari-pragmatic-play:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "pasokan-rtp-live-slot-tertinggi-dari-pragmatic-play",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "pasokan-rtp-live-slot-tertinggi-dari-pragmatic-play:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
